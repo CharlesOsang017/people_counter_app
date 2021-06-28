@@ -11,5 +11,7 @@ function increment(){
 function save(){
   let saveStr = count + " - ";
   saveEl.innerHTML += saveStr;
+  countEl.innerHTML = 0;
+  count = 0;
 
 }
