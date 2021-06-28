@@ -36,3 +36,20 @@ button {
     background: darkgreen;
 }
 
+/* @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  } */
+
+  /* @media screen and (min-width: 600px) {
+    body {
+      font-size: 80px;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    body {
+      font-size: 30px;
+    }
+  } */
